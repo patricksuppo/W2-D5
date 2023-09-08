@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap');
+
+
+body {
+    background-color: #f0f8ff;
+    font-family: 'Albert Sans', sans-serif;
+}
+header{
+background-color: rgb(2, 11, 59);
+margin: 0%;
+width: 100%;
+}
+#sottotit{
+    text-align: center;
+}
+#uno{
+    width: 100px;
+    padding: 0.5em;
+}
+
+h1{
+    text-align: center;
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    background-color: rgb(53, 84, 3);
+    margin-top: 0;
+    padding: 1em;
+    color: white;
+
+}
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav p {
+    background-color: rgb(211, 144, 20);
+    text-align: center;
+    padding: 0.5em;
+    margin: 1em;
+    color: white;
+    
+}
+
+
+
+main {
+    display: inline-block;
+    width: 95%;
+    height: 95%;
+    border: 2px solid #f6f6f6;
+    padding: 1em;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+
+#uno{
+    width: 15.4%;
+    border-radius: 15px;
+   
+    
+}
+#due{
+    width: 20%;
+    border-radius: 15px;
+    
+}
+
+#tre{ 
+    width: 20%;
+    border-radius: 15px;
+}
+
+#quattro{
+    width: 20%;
+    border-radius: 15px;}
+
+#cinque{
+    width: 90%;
+    border-radius: 15px;
+    text-align: center;
+    margin-left:1em ;
+
+}
+
+#sei{
+    width: 90%;
+    border-radius: 15px;
+    text-align: center;
+    margin-left:1em ;
+
+}
+
+#play{
+    
+    text-align: center;
+    margin-bottom: 1em;
+    
+}
+#sound{
+    text-align: center;
+    margin-bottom: 1em;
+}
+aside{
+    text-align: center;
+    background-color: gray;
+    padding: 1em;
+
+}
+
+aside a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(2, 11, 59);
+}
+
+#AMZ{
+    width: 100px;
+    padding: 2em;
+}
